@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727791173535",
+    "project_id": "decla-64575",
+    "storage_bucket": "decla-64575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727791173535:android:84aa923447004d79dc07aa",
+        "android_client_info": {
+          "package_name": "com.example.decla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLF0v1pCEHItU8UQP3lKhIlbC9-geSvfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
